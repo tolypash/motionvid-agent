@@ -1,0 +1,11 @@
+{
+  "name": "motionvid",
+  "owner": { "name": "Motionvid", "url": "https://motionvid.ai" },
+  "plugins": [
+    {
+      "name": "motionvid",
+      "source": "./",
+      "description": "Make motion graphics and explainer videos (MP4) with voiceover and music through the Motionvid MCP server."
+    }
+  ]
+}
