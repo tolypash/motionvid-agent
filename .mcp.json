@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "motionvid": {
+      "type": "http",
+      "url": "https://motionvid.ai/mcp"
+    }
+  }
+}
