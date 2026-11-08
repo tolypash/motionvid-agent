@@ -99,3 +99,7 @@ on the fast model typically takes about 33 credits, one minute about 45. For any
 - MCP setup per client: https://motionvid.ai/mcp
 - REST API: https://motionvid.ai/api-docs
 - Index: https://motionvid.ai/llms.txt
+
+<!-- Source of truth: motionvid-ai public/SKILL.md (served at https://motionvid.ai/SKILL.md),
+mirrored to github.com/tolypash/motionvid-agent. Credit figures are medians of real agent jobs,
+November 2026 (src/lib/agents.ts TYPICAL_CREDITS); 20 minutes is MULTI_SCENE_MAX_SECONDS. -->
