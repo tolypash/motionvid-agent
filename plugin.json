@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "motionvid",
+  "version": "1.0.0",
+  "description": "Make motion graphics and explainer videos (MP4) with voiceover and music through the Motionvid MCP server.",
+  "author": { "name": "Motionvid", "email": "nick@motionvid.ai", "url": "https://motionvid.ai" },
+  "homepage": "https://motionvid.ai/agents",
+  "repository": "https://github.com/tolypash/motionvid-agent",
+  "license": "MIT",
+  "keywords": ["video", "motion-graphics", "explainer", "animation", "mcp"]
+}
